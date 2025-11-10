@@ -1,18 +1,17 @@
 # BtQuickAccess
 
-Starting with Android 14, enabling or disabling bluetooth via the quick access menu requires two clicks.
+Starting with Android 14, enabling or disabling Bluetooth via the quick access menu requires two clicks.
+I much prefered the "one click" UX, so I created this app, which restores the Android < 14 behavior.
 
-I much prefered the one click UI, so I created this app, which restores the Android < 14 behavior.
-
-The tile is designed to look and behave exactly like the system bluetooth tile.
+The tile is designed to look and behave exactly like the system Bluetooth tile (see below screenshots).
 
 ## Screenshots
 
 ### Bluetooth enabled
-![images/off.png]
+![](images/off.png)
 
 ### Bluetooth disabled
-![images/on.png]
+![](images/on.png)
 
 ## Installation
 
