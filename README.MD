@@ -8,10 +8,10 @@ The tile is designed to look and behave exactly like the system Bluetooth tile (
 ## Screenshots
 
 ### Bluetooth enabled
-![](images/off.png)
+![](images/on.png)
 
 ### Bluetooth disabled
-![](images/on.png)
+![](images/off.png)
 
 ## Installation
 
