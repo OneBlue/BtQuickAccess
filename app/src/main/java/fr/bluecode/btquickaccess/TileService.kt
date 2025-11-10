@@ -82,8 +82,8 @@ class TileService : TileService() {
     {
         val (newState, label) = when(state)
         {
-            BluetoothAdapter.STATE_ON -> Pair(Tile.STATE_ACTIVE, "on")
-            BluetoothAdapter.STATE_OFF -> Pair(Tile.STATE_INACTIVE, "off")
+            BluetoothAdapter.STATE_ON -> Pair(Tile.STATE_ACTIVE, "On")
+            BluetoothAdapter.STATE_OFF -> Pair(Tile.STATE_INACTIVE, "Off")
             BluetoothAdapter.STATE_TURNING_ON -> Pair(Tile.STATE_ACTIVE, "turning on")
             BluetoothAdapter.STATE_TURNING_OFF -> Pair(Tile.STATE_INACTIVE, "turning off")
             else -> Pair(Tile.STATE_UNAVAILABLE, "Unexpected state: $state")
