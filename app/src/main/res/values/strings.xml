@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BtQuickAccess</string>
+    <string name="title_activity_long_click">LongClickActivity</string>
 </resources>
